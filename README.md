@@ -1,5 +1,5 @@
 # Parsing Illustrator
-A UI tool illustating some parsing algorithms of the Language Theory and Interpretation course I took at Hanoi University of Science and Technology, useful for homework and tests.
+A UI tool that illustrates some parsing algorithms of the Language Theory and Interpretation course, useful for homework and tests.
 
 The program includes:
 - Top-down parsing algorithms for given string and grammar.
