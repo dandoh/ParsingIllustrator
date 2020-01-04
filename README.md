@@ -1,7 +1,5 @@
 # Parsing Illustrator
-A UI tool written in Scala to illustrate various algorithms in parsing of the Language Theory and Interpretation course of Hanoi University of Science and Technology
-
-For the algorithms in the parsing part of the course often require us to illustrate by hand, which is kind of frustrating, this tool demontrates these algorithms for us.
+A UI tool illustating some parsing algorithms of the Language Theory and Interpretation course I took at Hanoi University of Science and Technology, useful for homework and tests.
 
 The program includes:
 - Top-down parsing algorithms for given string and grammar.
